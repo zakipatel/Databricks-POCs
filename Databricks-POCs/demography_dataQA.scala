@@ -1,10 +1,4 @@
-// Databricks notebook source exported at Tue, 12 Apr 2016 14:28:57 UTC
-// MAGIC %md 
-// MAGIC 
-// MAGIC ### Set Up 
-
-// COMMAND ----------
-
+// Databricks notebook source exported at Tue, 12 Apr 2016 14:31:07 UTC
 // attach the library sql-jdbc-4.jar to the cluster
 
 Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver") // check that the driver is available
